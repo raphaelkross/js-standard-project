@@ -1,7 +1,7 @@
 const Index = () => (
 	<div>
 		<h1>JS Standard Project</h1>
-		<p>Hello World!</p>
+		<p>Hello Worldy!</p>
 
 		<style jsx>{`
 			h1 {
