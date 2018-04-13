@@ -2,9 +2,9 @@
 
 This is a sample project filled with configuration files that will guarantee a much higher quality to any JS based project.
 
-#### Setup
+#### Installation
 
-Just run `npm install` to install all dependencies.
+Run `npm install` to install all dependencies.
 
 The file `package.json` contains all dependencies, special attention to `devDependencies` and `scripts` section.
 
@@ -38,7 +38,10 @@ Jest and Enzyme is used to test components, functions and Enzyme can render comp
 
 Run with `npm test`.
 
+`jest.config.js` and `jest.setup.js`
+
 Reference: https://facebook.github.io/jest/
+
 Reference: https://github.com/airbnb/enzyme
 
 #### Continuous Integration / TravisCI
